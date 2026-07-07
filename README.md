@@ -37,7 +37,7 @@ My experience includes projects for the Accounts Chamber of the Russian Federati
 | Program of state guarantees audit | Development support for analytical software used to assess the efficiency of the state guarantees program for free medical care for the Accounts Chamber of the Russian Federation. | Python, Excel |
 | Regional comparison tool | Automated comparison of Russian regions by medical and social indicators with statistical test selection and Excel report generation. | Python, statistics, visualization |
 | Reporting automation | Python-based solution for speeding up report table preparation, reducing reporting time from 4 weeks to 1 week. | Python, Excel |
-| Pet-project (in progress) | Applied analytics project based on open healthcare or public data. | Python, SQL, visualization |
+| Pet-project | Applied analytics project based on open public data. | Python, visualization |
 
 ## Contact
 
