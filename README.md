@@ -3,7 +3,7 @@
 Data analyst and public health researcher using Python, statistics, and visualization to work with regional medical data and support decision-making.  
 I combine experience in healthcare, epidemiology, and research analytics to solve applied data problems and build analytical tools for public health projects.
 
-## About me / О себе
+## About me 
 
 My path to data analytics grew naturally from medicine and public health research. I work at the National Research Institute of Public Health named after N.A. Semashko, where I analyze regional healthcare data, perform statistical analysis, prepare reports and presentations, and participate in the development of analytical software for public health monitoring.  
 
