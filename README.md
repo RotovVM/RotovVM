@@ -69,7 +69,7 @@ My experience includes projects for the **Accounts Chamber of the Russian Federa
 ## 📫 Contact
 
 - Telegram: [@wayitg](https://t.me/wayitg)
-- Email: [rotovvm@yandex.ru](mailto:rotovvm@yandex.ru)
+- Email: [RotovVM@yandex.ru](mailto:rotovvm@yandex.ru)
 
 ***
 
