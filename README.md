@@ -63,7 +63,7 @@ My experience includes projects for the **Accounts Chamber of the Russian Federa
 | [Urban environment cartograms](https://github.com/RotovVM/urban-environment-cartograms) | Cartographic visualization of urban environment indicators in municipalities of the Moscow Region. / Картографическая визуализация показателей городской среды в муниципальных образованиях Московской области. | Python, Jupyter Notebook, geo-data, visualization |
 | **Program of state guarantees audit** | Development support for analytical software used to assess the efficiency of the state guarantees program for free medical care for the Accounts Chamber of the Russian Federation. / Поддержка разработки аналитического программного обеспечения, используемого для оценки эффективности программы государственных гарантий бесплатного медицинского обслуживания для Счетной палаты Российской Федерации. | Excel |
 | **Reporting automation** | Python-based solution for speeding up report table preparation, reducing reporting time from 4 weeks to 1 week. / Решение на базе Python для ускорения подготовки таблиц отчетов, сокращающее время составления отчетов с 4 недель до 1 недели. | Python |
-| [Project: mobile game analytics](https://github.com/RotovVM/course-final-project-mobile-game-analytics) | Продуктовая аналитика на данных мобильной игры: расчёт retention, анализ A/B‑теста и подбор метрик для игрового события. | Python, pandas, statistics, visualization |
+| [Project: mobile game analytics](https://github.com/RotovVM/mobile-game-analytics) | Продуктовая аналитика на данных мобильной игры: расчёт retention, анализ A/B‑теста и подбор метрик для игрового события. | Python, pandas, statistics, visualization |
 
 
 ***
