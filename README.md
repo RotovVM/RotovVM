@@ -58,12 +58,17 @@ My experience includes projects for the **Accounts Chamber of the Russian Federa
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Monitoring public health**](https://www.elibrary.ru/item.asp?id=82325780)| Analysis of regional health indicators, risk factors, and socio-economic characteristics across Russian regions for public health monitoring and decision support. | Python, Excel, statistics, 1C |
-| **Program of state guarantees audit** | Development support for analytical software used to assess the efficiency of the state guarantees program for free medical care for the Accounts Chamber of the Russian Federation. | Excel |
-| [Regional comparison tool](https://github.com/RotovVM/multi-criteria-regional-zoning) | Automated comparison of Russian regions by medical and social indicators with statistical test selection and Excel report generation. / Автоматизированное сравнение регионов России по медицинским и социальным показателям с подбором статистических тестов и формированием отчетов в формате Excel. | Python, statistics, Excel |
-| **Reporting automation** | Python-based solution for speeding up report table preparation, reducing reporting time from 4 weeks to 1 week. | Python |
+| [**Monitoring public health**](https://www.elibrary.ru/item.asp?id=82325780)| Analysis of regional health indicators, risk factors, and socio-economic characteristics across Russian regions for public health monitoring and decision support.  
+Анализ региональных показателей состояния здоровья, факторов риска и социально-экономических характеристик в регионах России для мониторинга общественного здравоохранения и поддержки принятия решений. | Python, Excel, statistics, 1C |
+| **Program of state guarantees audit** | Development support for analytical software used to assess the efficiency of the state guarantees program for free medical care for the Accounts Chamber of the Russian Federation.  
+Поддержка разработки аналитического программного обеспечения, используемого для оценки эффективности программы государственных гарантий бесплатного медицинского обслуживания для Счетной палаты Российской Федерации. | Excel |
+| [Regional comparison tool](https://github.com/RotovVM/multi-criteria-regional-zoning) | Automated comparison of Russian regions by medical and social indicators with statistical test selection and Excel report generation.  
+Автоматизированное сравнение регионов России по медицинским и социальным показателям с подбором статистических тестов и формированием отчетов в формате Excel. | Python, statistics, Excel |
+| **Reporting automation** | Python-based solution for speeding up report table preparation, reducing reporting time from 4 weeks to 1 week.   
+Решение на базе Python для ускорения подготовки таблиц отчетов, сокращающее время составления отчетов с 4 недель до 1 недели. | Python |
 | [Course final project: mobile game analytics](https://github.com/RotovVM/course-final-project-mobile-game-analytics) | Учебный проект по продуктовой аналитике на данных мобильной игры: расчёт retention, анализ A/B‑теста и подбор метрик для игрового события. | Python, pandas, statistics, visualization |
-| [Urban environment cartograms](https://github.com/RotovVM/urban-environment-cartograms) | Cartographic visualization of urban environment indicators in municipalities of the Moscow Region, including motorization level, environmental protection costs, sports infrastructure, and green public areas. | Python, Jupyter Notebook, geo-data, visualization |
+| [Urban environment cartograms](https://github.com/RotovVM/urban-environment-cartograms) | Cartographic visualization of urban environment indicators in municipalities of the Moscow Region.  
+Картографическая визуализация показателей городской среды в муниципальных образованиях Московской области. | Python, Jupyter Notebook, geo-data, visualization |
 
 ***
 
