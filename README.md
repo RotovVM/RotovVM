@@ -58,7 +58,7 @@ My experience includes projects for the **Accounts Chamber of the Russian Federa
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Monitoring public health** (https://www.elibrary.ru/download/elibrary_82325780_73753335.PDF) | Analysis of regional health indicators, risk factors, and socio-economic characteristics across Russian regions for public health monitoring and decision support. | Python, Excel, statistics, 1C |
+| **Monitoring public health** (https://www.elibrary.ru/item.asp?id=82325780)| Analysis of regional health indicators, risk factors, and socio-economic characteristics across Russian regions for public health monitoring and decision support. | Python, Excel, statistics, 1C |
 | **Program of state guarantees audit** | Development support for analytical software used to assess the efficiency of the state guarantees program for free medical care for the Accounts Chamber of the Russian Federation. | Excel |
 | [Regional comparison tool](https://github.com/RotovVM/multi-criteria-regional-zoning) | Automated comparison of Russian regions by medical and social indicators with statistical test selection and Excel report generation. / Автоматизированное сравнение регионов России по медицинским и социальным показателям с подбором статистических тестов и формированием отчетов в формате Excel. | Python, statistics, Excel |
 | **Reporting automation** | Python-based solution for speeding up report table preparation, reducing reporting time from 4 weeks to 1 week. | Python |
